@@ -20,7 +20,7 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 - 📈 Business Intelligence
 - ⚡ ETL Development
 - 📉 Dashboard Development
-- 📚 Always learning
+- 📚 Always Learning
 
 ---
 
@@ -37,11 +37,15 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 # 🛠 Tech Stack
 
-### Languages
+### Languages & Databases
 
 <p>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -71,13 +75,15 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 ---
 
-### Visualization
+### Business Intelligence
 
 <p>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 </p>
 
@@ -91,11 +97,11 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 
 </p>
 
@@ -105,7 +111,7 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 ## 🌍 Global Workforce Layoff Analysis
 
-📌 SQL • Power BI • DAX
+📌 **SQL • Power BI • DAX**
 
 ✔ 761,000+ Employee Records
 
@@ -119,7 +125,7 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 ## 🛒 Retail Sales ETL Pipeline
 
-📌 SQL • Python • Excel
+📌 **SQL • Python • Excel**
 
 ✔ 50,000+ Transactions
 
@@ -133,7 +139,7 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 ## 🛍 Blinkit Performance Dashboard
 
-📌 SQL • Power BI
+📌 **SQL • Power BI**
 
 ✔ 10,000+ Records
 
@@ -145,62 +151,16 @@ I enjoy solving business problems through data using **SQL, Python, Excel, and P
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khalid-hassa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-hassa&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Khalid-hassa&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khalid-hassa&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid-hassa&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
